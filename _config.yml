@@ -1,1 +1,5 @@
 remote_theme: minima
+title: Blue, the no-code CMS
+minima:
+  skin: dark
+description: no-code web builder for makers, freelancers and web studios, forever free and open source
