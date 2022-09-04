@@ -1,5 +1,3 @@
-# Blue no-code CMS
-
 **Launching Blue, no-code web builder for makers, freelancers and web studios, forever free and open source.**
 
 I am an experienced maker and developer, always building apps, such as Silex, cloud explorer, monitoshi, Statsic, serverless forms, a bunch of bubble plugins, open source libraries, volunteer contributions, company, non profit organization, other company, reputable freelance.
