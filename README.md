@@ -11,6 +11,14 @@ Now concerning my next and biggest achievement, XXXX is born with a first protot
 * Itérez sur votre design avec de vraies données
 * Créez une interface d’administration pour saisir le contenu sans se soucier du design
 
+## Silex vs Blue
+
+Blue is a hosted version of Silex, preconfigured with
+
+* Directus as a source of data
+* 11ty as a builder
+* Liquid.js as a template language
+
 ## Silex vs editorX
 
 Nodejs server (add lambda to silex/blue?)
