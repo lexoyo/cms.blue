@@ -4,12 +4,12 @@ I am an experienced maker and developer, always building apps, such as Silex, cl
 
 My mission in life is to help people sease or create opportunities, hence my involvement in and passion for no-code, coaching and training. I'm also as responsible as I can, socially, environmentally, professionally and personally. All green and aware respect.
 
-Now concerning my next and biggest achievement, XXXX is born with a first prototype we used at internet 2000 to create websites for customers. It is the first full featured free and open source no-code website builder, with state of the art content management and drag and drop webdesign tool à la Webflow
+Now concerning my next and biggest achievement, Blue is a SaaS version of Silex v3. It is the first full featured free and open source no-code website builder, with state of the art content management and drag and drop webdesign tool à la Webflow
 
-* Libre et gratuit, à destination des graphistes et des “no-coders”
-* Concevez des sites en ligne ou installez l’application en local
-* Itérez sur votre design avec de vraies données
-* Créez une interface d’administration pour saisir le contenu sans se soucier du design
+* Free and free, for graphic designers and “no-coders”
+* Design sites online or install the application locally
+* Iterate on your design with real data
+* Create an admin interface to grab content without worrying about design
 
 ## Silex vs Blue
 
