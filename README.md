@@ -15,9 +15,9 @@ Now concerning my next and biggest achievement, XXXX is born with a first protot
 
 Blue is a hosted version of Silex, preconfigured with
 
-* Directus as a source of data
-* 11ty as a builder
-* Liquid.js as a template language
+* directus.io as a source of data
+* 11ty.dev as a builder
+* liquid.js as a template language
 
 ## Silex vs editorX
 
