@@ -18,6 +18,9 @@ Blue is a hosted version of Silex, preconfigured with
 * directus.io as a source of data
 * 11ty.dev as a builder
 * liquid.js as a template language
+* Programmable severless functions (lambda) and hooks
+* Access to your site data via git, auto deploy on push
+
 
 ## Silex vs editorX
 
