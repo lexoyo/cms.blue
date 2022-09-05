@@ -2,7 +2,7 @@
 
 Blue is a SaaS version of Silex v3. It is the first full featured free and open source no-code website builder, with state of the art content management and drag and drop webdesign tool à la Webflow
 
-* Free and free, for graphic designers and “no-coders”
+* For graphic designers and “no-coders”, for freelancers and web design studios
 * Design sites online or install the application locally
 * Iterate on your design with real data
 * Create an admin interface to grab content without worrying about design
