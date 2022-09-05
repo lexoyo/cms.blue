@@ -1,3 +1,5 @@
+<script data-host="https://microanalytics.io" data-dnt="false" src="https://microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script>
+
 **Launching Blue, no-code web builder for makers, freelancers and web studios, forever free and open source.**
 
 Blue is a SaaS version of Silex v3. It is the first full featured free and open source no-code website builder, with state of the art content management and drag and drop webdesign tool à la Webflow
