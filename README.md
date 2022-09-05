@@ -1,10 +1,6 @@
 **Launching Blue, no-code web builder for makers, freelancers and web studios, forever free and open source.**
 
-I am an experienced maker and developer, always building apps, such as Silex, cloud explorer, monitoshi, Statsic, serverless forms, a bunch of bubble plugins, open source libraries, volunteer contributions, company, non profit organization, other company, reputable freelance.
-
-My mission in life is to help people sease or create opportunities, hence my involvement in and passion for no-code, coaching and training. I'm also as responsible as I can, socially, environmentally, professionally and personally. All green and aware respect.
-
-Now concerning my next and biggest achievement, Blue is a SaaS version of Silex v3. It is the first full featured free and open source no-code website builder, with state of the art content management and drag and drop webdesign tool à la Webflow
+Blue is a SaaS version of Silex v3. It is the first full featured free and open source no-code website builder, with state of the art content management and drag and drop webdesign tool à la Webflow
 
 * Free and free, for graphic designers and “no-coders”
 * Design sites online or install the application locally
