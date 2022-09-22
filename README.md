@@ -8,7 +8,8 @@ Blue is a SaaS version of Silex v3. It is the first full featured free and open 
 * For graphic designers and “no-coders”, for freelancers and web design studios
 * Design sites online or install the application locally
 * Iterate on your design with real data
-* Create an admin interface to grab content without worrying about design
+* Create an admin interface to edit content without worrying about design
+* Deploy anywhere and get the best performance thanks to static / JAMStack tech
 
 ## Silex vs Blue
 
@@ -48,7 +49,8 @@ Only in Webflow
 Only in Silex/blue
 
 * Built-in code editor
-* Self host
+* Self host, host anywhere
 * Own your data
 * Ability to choose the version you want to use (latest by default on editor.silex.me)
 * Desktop version
+* Awesome performance as the sites are static / JAMStack
