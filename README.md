@@ -10,6 +10,7 @@ Blue is a SaaS version of Silex v3. It is the first full featured free and open 
 * Iterate on your design with real data
 * Create an admin interface to edit content without worrying about design
 * Deploy anywhere and get the best performance thanks to static / JAMStack tech
+* No hidden costs or enterprise pricing licenses to consider
 
 ## Silex vs Blue
 
