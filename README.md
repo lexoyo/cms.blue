@@ -49,3 +49,12 @@ Only in Blue
 * Ability to choose the version you want to use (latest by default on editor.silex.me)
 * Desktop version
 * Awesome performance as the sites are static / JAMStack
+
+## Related projects and tech
+
+* Silex
+* Directus
+* 11ty.dev
+* GrapesJs
+* Typescript
+* Node.js
