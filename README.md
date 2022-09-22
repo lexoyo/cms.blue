@@ -22,23 +22,17 @@ Blue is a hosted version of Silex, preconfigured with
 * Programmable severless functions (lambda) and hooks
 * Access to your site data via git, auto deploy on push
 
-
-## Silex vs editorX
-
-Nodejs server (add lambda to silex/blue?)
-https://www.editorx.com/features/development
-
-## Silex vs webflow / things to add to silex roadmap
+## Blue vs webflow
 
 Both have
 
 * Designer
 * Style manager
-* CSS classes to reuse styles - v3
-* CMS - coming in Silex/blue
-* Data model builder - in v3
-* Flows for automation - in v3 with directus
-* Extensive documentation - in v3
+* CSS classes to reuse styles
+* CMS
+* Data model builder
+* Flows for automation
+* Extensive documentation
 
 Only in Webflow
 
@@ -47,7 +41,7 @@ Only in Webflow
 * Connect services like twitter
 * Marketplace
 
-Only in Silex/blue
+Only in Blue
 
 * Built-in code editor
 * Self host, host anywhere
