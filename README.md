@@ -3,7 +3,7 @@
 
 **Launching Blue, no-code web builder for makers, freelancers and web agencies, forever free and open source.**
 
-Blue is a SaaS version of [Silex](https://www silex.me) and [Directus](https://directus.io). It is the first full featured free and open source no-code website builder, with state of the art content management and drag and drop webdesign tool à la Webflow
+Blue is a SaaS version of [Silex](https://www.silex.me) and [Directus](https://directus.io). It is the first full featured free and open source no-code website builder, with state of the art content management and drag and drop webdesign tool à la Webflow
 
 * For graphic designers and “no-coders”, for freelancers and web design studios
 * Design sites online or install the application locally
