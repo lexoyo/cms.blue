@@ -16,11 +16,11 @@ Blue is a SaaS version of [Silex](https://www.silex.me) and [Directus](https://d
 
 Blue is a hosted version of Silex, preconfigured with
 
-* directus.io as a source of data
+* directus.io headless CMS
 * 11ty.dev as a builder
 * liquid.js as a template language
 * Programmable severless functions (lambda) and hooks
-* Access to your site data via git, auto deploy on push
+* Access to your site data via git, deploy on push
 
 ## Blue vs webflow
 
@@ -33,6 +33,7 @@ Both have
 * Data model builder
 * Flows for automation
 * Extensive documentation
+* Multilingual websites
 
 Only in Webflow
 
@@ -40,13 +41,14 @@ Only in Webflow
 * Team collaboration
 * Connect services like twitter
 * Marketplace
+* Impressive exhaustive documentation with videos
 
 Only in Blue
 
 * Built-in code editor
 * Self host, host anywhere
+* Web standards, no lock-in: you have access to your site source, a standard static website
 * Own your data
-* Ability to choose the version you want to use (latest by default on editor.silex.me)
 * Desktop version
 * Awesome performance as the sites are static / JAMStack
 
