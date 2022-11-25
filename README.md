@@ -42,6 +42,7 @@ Only in Webflow
 * Connect services like twitter
 * Marketplace
 * Impressive exhaustive documentation with videos
+* Built-in e-commerce
 
 Only in Blue
 
