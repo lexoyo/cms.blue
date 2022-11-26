@@ -29,11 +29,12 @@ Both have
 * Designer
 * Style manager
 * CSS classes to reuse styles
-* CMS
+* CMS, design with the real data
 * Data model builder
 * Flows for automation
 * Extensive documentation
 * Multilingual websites
+* E-commerce
 
 Only in Webflow
 
@@ -42,7 +43,6 @@ Only in Webflow
 * Connect services like twitter
 * Marketplace
 * Impressive exhaustive documentation with videos
-* Built-in e-commerce
 * Many quality templates
 
 Only in Blue
@@ -56,9 +56,9 @@ Only in Blue
 
 ## Related projects and tech
 
-* Silex
-* Directus
+* Silex.me
+* Directus.io
 * 11ty.dev
-* GrapesJs
+* GrapesJs.com
 * Typescript
-* Node.js
+* NodeJs
