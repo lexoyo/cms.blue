@@ -43,6 +43,7 @@ Only in Webflow
 * Marketplace
 * Impressive exhaustive documentation with videos
 * Built-in e-commerce
+* Many quality templates
 
 Only in Blue
 
