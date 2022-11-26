@@ -20,7 +20,7 @@ Blue is a hosted version of Silex, preconfigured with
 * 11ty.dev as a builder
 * liquid.js as a template language
 * Programmable severless functions (lambda) and hooks
-* Access to your site data via git, deploy on push
+* Access your website source code via git, deploy on push
 
 ## Blue vs webflow
 
@@ -48,11 +48,12 @@ Only in Webflow
 Only in Blue
 
 * Built-in code editor
-* Self host, host anywhere
+* Host your website anywhere, easy built-in deployment
 * Web standards, no lock-in: you have access to your site source, a standard static website
 * Own your data
 * Desktop version
 * Awesome performance as the sites are static / JAMStack
+* Developer friendly: nothing more than standard open souce tools (static site, headless cms), access your website source code via git, deploy on push
 
 ## Related projects and tech
 
