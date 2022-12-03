@@ -1,3 +1,6 @@
+---
+permalink: /why.blue/
+---
 # Why Blue 
 
 You will find here what value does Blue brings to the tools it competes with or it is made with
