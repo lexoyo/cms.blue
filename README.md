@@ -14,13 +14,13 @@ Blue is a SaaS version of [Silex](https://www.silex.me) and [Directus](https://d
 
 Read more
 
-* [[Why blue]]
+* [Why blue](/why.blue/)
 
 ## Related projects and tech
 
-* Silex.me
-* Directus.io
-* 11ty.dev
-* GrapesJs.com
+* [Silex.me](https://www.silex.me)
+* [Directus.io](Directus.io)
+* [11ty.dev](11ty.dev)
+* [GrapesJs.com](GrapesJs.com)
 * Typescript
 * NodeJs
