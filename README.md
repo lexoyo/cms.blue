@@ -19,8 +19,8 @@ Read more
 ## Related projects and tech
 
 * [Silex.me](https://www.silex.me)
-* [Directus.io](Directus.io)
-* [11ty.dev](11ty.dev)
-* [GrapesJs.com](GrapesJs.com)
+* [Directus.io](https://Directus.io)
+* [11ty.dev](https://11ty.dev)
+* [GrapesJs.com](https://GrapesJs.com)
 * Typescript
 * NodeJs
