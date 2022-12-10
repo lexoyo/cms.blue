@@ -13,8 +13,12 @@ Blue is a distribution of Silex, preconfigured with
 * 11ty.dev as a builder
 * liquid.js as a template language
 * Programmable severless functions (lambda) and hooks
-* Access your website source code via git, deploy on push
 * Local font server to proxy google font
+
+Added features
+
+* Access your website source code via git, deploy on push
+* Per website version of each tool
 
 ## Blue vs webflow
 
