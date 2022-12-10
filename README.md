@@ -22,5 +22,6 @@ Read more
 * [Directus.io](https://Directus.io)
 * [11ty.dev](https://11ty.dev)
 * [GrapesJs.com](https://GrapesJs.com)
+* [Font server](https://github.com/coollabsio/fonts)
 * Typescript
 * NodeJs
