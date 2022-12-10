@@ -7,13 +7,14 @@ You will find here what value does Blue brings to the tools it competes with or 
 
 ## Silex vs Blue
 
-Blue is a hosted version of Silex, preconfigured with
+Blue is a distribution of Silex, preconfigured with
 
 * directus.io headless CMS
 * 11ty.dev as a builder
 * liquid.js as a template language
 * Programmable severless functions (lambda) and hooks
 * Access your website source code via git, deploy on push
+* Local font server to proxy google font
 
 ## Blue vs webflow
 
