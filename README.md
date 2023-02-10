@@ -15,6 +15,8 @@ Read more
 
 * [Why blue](/why.blue/)
 
+[Newsletter, become a beta tester](https://mail-list.silexlabs.org/subscription/cemnfkaVrK?locale=en-US&source=cms.blue)
+
 ## Related projects and tech
 
 * [Silex.me](https://www.silex.me)
