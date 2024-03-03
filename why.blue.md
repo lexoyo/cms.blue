@@ -9,7 +9,7 @@ You will find here what value does Blue brings to the tools it competes with or 
 
 Blue is a distribution of Silex, preconfigured with
 
-* directus.io headless CMS
+* directus.io or squidex.io headless CMS
 * 11ty.dev as a builder
 * liquid.js as a template language
 * Programmable severless functions (lambda) and hooks
