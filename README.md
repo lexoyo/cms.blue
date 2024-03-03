@@ -21,6 +21,7 @@ Read more
 
 * [Silex.me](https://www.silex.me)
 * [Directus.io](https://Directus.io)
+* [Squidex.io](http://squidex.io/)
 * [11ty.dev](https://11ty.dev)
 * [GrapesJs.com](https://GrapesJs.com)
 * [Font server](https://github.com/coollabsio/fonts)
