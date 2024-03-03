@@ -33,22 +33,23 @@ Both have
 * Extensive documentation
 * Multilingual websites
 * E-commerce
+* AI for helping with copywriting
+* Fake data generator
+* Translation and i18n internationalization
 
 Only in Webflow
 
-* Fake data
 * Team collaboration
-* Connect services like twitter
 * Marketplace
-* Impressive exhaustive documentation with videos
+* Impressive exhaustive documentation with lots of videos
 * Many quality templates
 
 Only in Blue
 
 * Built-in code editor
 * Host your website anywhere, easy built-in deployment
-* Web standards, no lock-in: you have access to your site source, a standard static website
-* Own your data
+* Web standards, no lock-in: you have access to your site source code, your website is a standard 11ty static website. Everything you learn here will be useful webdesign skills
+* Own your data, backup, use version control, delete it forever...
 * Desktop version
 * Awesome performance as the sites are static / JAMStack
 * Developer friendly: nothing more than standard open souce tools (static site, headless cms), access your website source code via git, deploy on push
